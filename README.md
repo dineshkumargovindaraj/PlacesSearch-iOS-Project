@@ -1,5 +1,5 @@
 # PlacesSearch-iOS-Project
-An iOS Application to search the place and display it on Google Maps  as part of MCDA iOS Development
+An iOS Application developed using Swift to search the place and display it on Google Maps  as part of MCDA iOS Development
 
 ## Obtain API Key 
 https://console.developers.google.com/apis/dashboard
